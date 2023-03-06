@@ -1,0 +1,1 @@
+we  need to use only one h1 tag in our whole website in the hero section(main tag)
